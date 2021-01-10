@@ -111,3 +111,9 @@ If you use our approach in your research, we would be happy if you cite us:
 }
 ```
 
+# License
+```
+(c) Robert Bosch GmbH 2019-2021. All rights reserved.
+This software is solely developed for and published as part of the publication [arxiv](https://arxiv.org/pdf/2002.02705.pdf).
+You are only allowed to use this code to reproduce the experiments presented in the named publication for scientific purposes.
+```
