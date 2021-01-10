@@ -1,0 +1,5 @@
+models/
+reports/
+*.pyc
+**.pytest_cache/
+**__pycache__/

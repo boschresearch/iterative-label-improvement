@@ -1,0 +1,2 @@
+mkdir models
+mkdir -p reports/{history,figures}
