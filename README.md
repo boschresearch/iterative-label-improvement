@@ -17,9 +17,9 @@ Note: If you want to use tinyimagenet you need to download the files first and p
 │├── figures<br/>
 │└── history<br/>
 └── ili<br/>
- ├── datasets - custom datasets !adjust directory to actual files !<br/>
- ├── models - config, helpers, etc.<br/>
- └── test - some optional tests using pytest<br/>
+&nbsp;&nbsp;├── datasets - custom datasets !adjust directory to actual files !<br/>
+&nbsp;&nbsp;├── models - config, helpers, etc.<br/>
+&nbsp;&nbsp;└── test - some optional tests using pytest<br/>
 
 
 2) Install dependencies
